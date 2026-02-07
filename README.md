@@ -1,4 +1,3 @@
----
 
 ## 🔬 Research Publication
 
@@ -14,7 +13,6 @@ The research paper presents the detailed methodology, experimental analysis, and
 
 ### 👨‍💻 Team Members
 - Varun Terdal   
-
 **Guide:** Dr. Uday Kulkarni  
 
 ---
